@@ -7,7 +7,7 @@ instructors and TAs in the room. Nothing here is submitted and nothing here is g
 |---|---|---|
 | Lab 4 · Pieces of a list, positions and all | `unit-02-1.ipynb` | Fri Sep 11 |
 | Lab 5 · Counting your way to a p-value | `unit-02-2.ipynb` | Mon Sep 14 |
-| Lab 6 · Reading drills: loops that count worlds | `unit-02-3.ipynb` | Wed Sep 16 |
+| Lab 6 · Reading drills: loops that repeat a model | `unit-02-3.ipynb` | Wed Sep 16 |
 
 ## Run them
 
